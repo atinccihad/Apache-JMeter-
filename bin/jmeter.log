@@ -2028,3 +2028,287 @@ java.lang.NumberFormatException: For input string: ""
 2023-01-08 19:16:51,703 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
 2023-01-08 19:16:51,703 INFO o.a.j.s.FileServer: Close: C:/Users/USER/Desktop/sample.csv
 2023-01-08 19:16:51,703 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 22:48:34,301 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-01-08 22:50:17,753 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Desktop\apache-jmeter-5.5'
+2023-01-08 22:50:41,774 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 22:50:41,776 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 22:50:41,779 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 22:50:42,896 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 22:50:42,896 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 22:50:42,896 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 22:50:42,898 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 22:50:42,899 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 22:50:42,899 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 22:50:42,900 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 22:50:44,843 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 22:50:44,843 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 22:50:44,849 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 22:50:44,849 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 22:55:06,597 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 22:55:06,597 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 22:55:06,598 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 22:55:06,608 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 22:55:06,608 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 22:55:06,608 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 22:55:06,608 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 22:55:06,609 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 22:55:06,609 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 22:55:06,610 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 22:55:08,307 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 22:55:08,307 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 22:55:08,308 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 22:55:08,308 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 22:55:26,528 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 22:55:26,528 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 22:55:26,528 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 22:55:26,703 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 22:55:26,704 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 22:55:26,704 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 22:55:26,704 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 22:55:26,704 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 22:55:26,704 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 22:55:26,705 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 22:55:28,079 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 22:55:28,079 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 22:55:28,079 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 22:55:28,079 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 22:58:33,478 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 22:58:33,478 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 22:58:33,479 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 22:58:33,642 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 22:58:33,643 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 22:58:33,643 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 22:58:33,643 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 22:58:33,645 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 22:58:33,645 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 22:58:33,646 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 22:58:35,475 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 22:58:35,475 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 22:58:35,476 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 22:58:35,476 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:09:20,402 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:09:20,403 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:09:20,406 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:09:20,569 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:09:20,569 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:09:20,569 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:09:20,569 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:09:20,570 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:09:20,570 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:09:20,572 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:09:22,526 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:09:22,526 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:09:22,527 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:09:22,527 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:15:46,201 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:15:46,202 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:15:46,202 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:15:46,342 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:15:46,342 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:15:46,342 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:15:46,343 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:15:46,343 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:15:46,343 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:15:46,350 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:15:48,701 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:15:48,701 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:15:48,702 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:15:48,702 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:18:49,383 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:18:49,383 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:18:49,384 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:18:49,518 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:18:49,518 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:18:49,518 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:18:49,518 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:18:49,519 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:18:49,519 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:18:49,520 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:18:51,524 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:18:51,524 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:18:51,525 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:18:51,525 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:24:42,284 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:24:42,285 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:24:42,285 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:24:42,289 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:24:42,290 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:24:42,290 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:24:42,290 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:24:42,291 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:24:42,291 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:24:42,300 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:24:44,339 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:24:44,340 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:24:44,340 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:24:44,340 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:32:40,442 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-01-08 23:33:01,098 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-01-08 23:43:11,476 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:43:11,476 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:43:11,477 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:43:11,503 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:43:11,504 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:43:11,504 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:43:11,504 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:43:11,504 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:43:11,504 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:43:11,504 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:43:15,073 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:43:15,073 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:43:15,074 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:43:15,074 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:45:39,417 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:45:39,417 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:45:39,418 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:45:39,567 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:45:39,567 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:45:39,567 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:45:39,568 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:45:39,568 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:45:39,568 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:45:39,568 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:45:42,548 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:45:42,549 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:45:42,550 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:45:42,550 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:46:06,912 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:46:06,913 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:46:06,913 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:46:07,055 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:46:07,055 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:46:07,055 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:46:07,055 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:46:07,056 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:46:07,056 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:46:07,056 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:46:10,452 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:46:10,452 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:46:10,453 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:46:10,453 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:48:41,686 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:48:41,686 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:48:41,687 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:48:41,695 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:48:41,695 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:48:41,695 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:48:41,696 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:48:41,696 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:48:41,696 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:48:41,696 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:48:45,297 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:48:45,297 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:48:45,298 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:48:45,298 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:54:06,765 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:54:06,766 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:54:06,766 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:54:06,899 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:54:06,899 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:54:06,899 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:54:06,899 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:54:06,900 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:54:06,900 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:54:06,901 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:54:10,556 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:54:10,556 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:54:10,557 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:54:10,558 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:54:44,346 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:54:44,346 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:54:44,347 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:54:44,473 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:54:44,473 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:54:44,474 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:54:44,474 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:54:44,474 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:54:44,474 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:54:44,474 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:54:48,215 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:54:48,216 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:54:48,218 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:54:48,218 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:56:00,362 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:56:00,362 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:56:00,363 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:56:00,531 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:56:00,532 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:56:00,532 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:56:00,532 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:56:00,532 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:56:00,532 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:56:00,534 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:56:04,042 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:56:04,043 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:56:04,044 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:56:04,045 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:56:14,525 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:56:14,525 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:56:14,525 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:56:14,645 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:56:14,645 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:56:14,645 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:56:14,645 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:56:14,646 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:56:14,646 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:56:14,646 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:56:18,011 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:56:18,011 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:56:18,012 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:56:18,012 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-08 23:56:33,895 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-08 23:56:33,896 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-08 23:56:33,896 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-08 23:56:33,899 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-08 23:56:33,899 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-08 23:56:33,899 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-08 23:56:33,899 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-08 23:56:33,900 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-08 23:56:33,900 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-08 23:56:33,900 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-08 23:56:37,221 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-08 23:56:37,222 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-08 23:56:37,223 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-08 23:56:37,223 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-09 00:07:17,484 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-09 00:07:17,485 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-09 00:07:17,485 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-09 00:07:17,632 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-09 00:07:17,632 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-09 00:07:17,632 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-09 00:07:17,632 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-09 00:07:17,633 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-09 00:07:17,633 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-09 00:07:17,633 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-09 00:07:20,715 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-09 00:07:20,716 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-09 00:07:20,716 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-09 00:07:20,716 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-09 00:16:43,452 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-09 00:16:43,453 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-09 00:16:43,454 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-09 00:16:43,609 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-09 00:16:43,609 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-09 00:16:43,610 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-09 00:16:43,610 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-09 00:16:43,610 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-09 00:16:43,610 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-09 00:16:43,611 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-09 00:16:46,736 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-09 00:16:46,736 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-09 00:16:46,737 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-09 00:16:46,738 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-01-09 00:18:25,581 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-01-09 00:18:25,581 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-01-09 00:18:25,582 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-01-09 00:18:25,591 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : userGroups
+2023-01-09 00:18:25,591 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group userGroups.
+2023-01-09 00:18:25,591 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-01-09 00:18:25,591 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-01-09 00:18:25,592 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-01-09 00:18:25,592 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-01-09 00:18:25,592 INFO o.a.j.t.JMeterThread: Thread started: userGroups 1-1
+2023-01-09 00:18:29,468 INFO o.a.j.t.JMeterThread: Thread is done: userGroups 1-1
+2023-01-09 00:18:29,469 INFO o.a.j.t.JMeterThread: Thread finished: userGroups 1-1
+2023-01-09 00:18:29,469 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-01-09 00:18:29,469 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
