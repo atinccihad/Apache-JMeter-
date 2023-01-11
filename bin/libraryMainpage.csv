@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.67346E+12,574,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,8,8,https://www.librarydreams.com/,289,0,207
+1.67346E+12,289,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,8,8,https://librarydreams.com/,289,0,207
+1.67346E+12,285,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,8,8,https://www.librarydreams.com/,285,0,199
+1.67346E+12,790,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,8,8,https://www.librarydreams.com/,403,0,274
+1.67346E+12,403,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,8,8,https://librarydreams.com/,403,0,274
+1.67346E+12,386,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,8,8,https://www.librarydreams.com/,385,0,303
+1.67346E+12,704,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,9,9,https://www.librarydreams.com/,304,0,204
+1.67346E+12,304,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,9,9,https://librarydreams.com/,304,0,204
+1.67346E+12,399,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,9,9,https://www.librarydreams.com/,399,0,288
+1.67346E+12,480,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,9,9,https://www.librarydreams.com/,245,0,169
+1.67346E+12,245,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,9,9,https://librarydreams.com/,245,0,169
+1.67346E+12,235,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,9,9,https://www.librarydreams.com/,234,0,159
+1.67346E+12,673,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,282,0,207
+1.67346E+12,282,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,282,0,207
+1.67346E+12,390,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,390,0,153
+1.67346E+12,513,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,258,0,176
+1.67346E+12,258,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,258,0,176
+1.67346E+12,254,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,254,0,173
+1.67346E+12,484,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,229,0,156
+1.67346E+12,229,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,229,0,156
+1.67346E+12,254,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,254,0,176
+1.67346E+12,515,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,249,0,167
+1.67346E+12,250,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,249,0,167
+1.67346E+12,265,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,265,0,168
+1.67346E+12,498,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,230,0,159
+1.67346E+12,230,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,230,0,159
+1.67346E+12,267,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,267,0,173
+1.67346E+12,614,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,369,0,180
+1.67346E+12,369,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,369,0,180
+1.67346E+12,244,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,244,0,166
+1.67346E+12,183,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,98,0,0
+1.67346E+12,98,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,98,0,0
+1.67346E+12,85,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,85,0,0
+1.67346E+12,161,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,85,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,85,0,0
+1.67346E+12,150,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,158,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,147,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,71,0,0
+1.67346E+12,71,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,71,0,0
+1.67346E+12,173,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,92,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,92,0,0
+1.67346E+12,404,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,100,0,0
+1.67346E+12,100,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,100,0,0
+1.67346E+12,304,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,304,0,0
+1.67346E+12,148,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,73,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,73,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,146,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,70,0,0
+1.67346E+12,70,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,70,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,162,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,171,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,83,0,0
+1.67346E+12,84,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,83,0,0
+1.67346E+12,87,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,87,0,0
+1.67346E+12,166,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,79,0,0
+1.67346E+12,87,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,87,0,0
+1.67346E+12,167,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,86,0,0
+1.67346E+12,86,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,86,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,173,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,99,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,99,0,0
+1.67346E+12,156,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,161,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,83,0,0
+1.67346E+12,83,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,83,0,0
+1.67346E+12,78,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,78,0,0
+1.67346E+12,214,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,119,0,0
+1.67346E+12,119,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,119,0,0
+1.67346E+12,94,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,94,0,0
+1.67346E+12,149,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,73,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,73,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,153,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,73,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,73,0,0
+1.67346E+12,80,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,151,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,78,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,73,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,159,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,84,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,168,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,84,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,84,0,0
+1.67346E+12,84,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,154,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,148,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,147,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,70,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,70,0,0
+1.67346E+12,73,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,169,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,95,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,95,0,0
+1.67346E+12,164,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,88,0,0
+1.67346E+12,88,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,88,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,157,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,80,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,80,0,0
+1.67346E+12,77,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,147,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,70,0,0
+1.67346E+12,71,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,70,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,180,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,99,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,99,0,0
+1.67346E+12,387,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,312,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,312,0,0
+1.67346E+12,185,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,101,0,0
+1.67346E+12,101,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,101,0,0
+1.67346E+12,84,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,302,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,222,0,0
+1.67346E+12,222,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,222,0,0
+1.67346E+12,80,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,658,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,584,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,584,0,0
+1.67346E+12,167,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,91,0,0
+1.67346E+12,91,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,91,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,154,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,155,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,80,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,80,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,187,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,80,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,80,0,0
+1.67346E+12,106,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,106,0,0
+1.67346E+12,160,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,84,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,84,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,182,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,95,0,0
+1.67346E+12,95,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,95,0,0
+1.67346E+12,87,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,87,0,0
+1.67346E+12,285,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,89,0,0
+1.67346E+12,89,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,89,0,0
+1.67346E+12,196,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,196,0,0
+1.67346E+12,354,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,79,0,0
+1.67346E+12,275,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,275,0,0
+1.67346E+12,154,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,78,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,78,0,0
+1.67346E+12,156,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,80,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,175,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,100,0,0
+1.67346E+12,100,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,100,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,177,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,103,0,0
+1.67346E+12,103,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,103,0,0
+1.67346E+12,74,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,174,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,93,0,0
+1.67346E+12,93,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,93,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,148,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,69,0,0
+1.67346E+12,69,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,69,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,174,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,94,0,0
+1.67346E+12,94,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,94,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,148,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,71,0,0
+1.67346E+12,71,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,71,0,0
+1.67346E+12,77,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,149,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,73,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,158,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,78,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,78,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,166,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,87,0,0
+1.67346E+12,87,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,87,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,150,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,74,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,183,homePage,200,OK,com.librarydreams 1-2,text,true,,1894,242,10,10,https://www.librarydreams.com/,99,0,0
+1.67346E+12,99,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,465,119,10,10,https://librarydreams.com/,99,0,0
+1.67346E+12,84,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,165,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,89,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,89,0,0
+1.67346E+12,153,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,170,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,83,0,0
+1.67346E+12,83,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,83,0,0
+1.67346E+12,87,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,87,0,0
+1.67346E+12,151,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,160,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,175,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,85,0,0
+1.67346E+12,85,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,85,0,0
+1.67346E+12,90,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,90,0,0
+1.67346E+12,172,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,84,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,84,0,0
+1.67346E+12,88,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,88,0,0
+1.67346E+12,244,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,165,0,0
+1.67346E+12,165,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,165,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,146,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,72,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,72,0,0
+1.67346E+12,194,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,90,0,0
+1.67346E+12,90,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,90,0,0
+1.67346E+12,104,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,104,0,0
+1.67346E+12,159,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,82,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,82,0,0
+1.67346E+12,162,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,86,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,86,0,0
+1.67346E+12,170,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,91,0,0
+1.67346E+12,91,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,91,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,166,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,84,0,0
+1.67346E+12,85,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,84,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,148,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,73,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,73,0,0
+1.67346E+12,178,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,99,0,0
+1.67346E+12,99,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,99,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,157,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,156,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,78,0,0
+1.67346E+12,78,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,78,0,0
+1.67346E+12,78,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,78,0,0
+1.67346E+12,156,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,75,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,75,0,0
+1.67346E+12,81,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,154,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,162,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,80,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,80,0,0
+1.67346E+12,162,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,79,0,0
+1.67346E+12,83,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,83,0,0
+1.67346E+12,145,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,10,10,https://www.librarydreams.com/,70,0,0
+1.67346E+12,70,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,10,10,https://librarydreams.com/,70,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,147,homePage,200,OK,com.librarydreams 1-4,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-4,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,70,homePage-1,200,OK,com.librarydreams 1-4,text,true,,1429,123,10,10,https://www.librarydreams.com/,70,0,0
+1.67346E+12,146,homePage,200,OK,com.librarydreams 1-7,text,true,,1918,242,10,10,https://www.librarydreams.com/,71,0,0
+1.67346E+12,71,homePage-0,308,Permanent Redirect,com.librarydreams 1-7,text,true,,489,119,10,10,https://librarydreams.com/,71,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-7,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,153,homePage,200,OK,com.librarydreams 1-3,text,true,,1918,242,10,10,https://www.librarydreams.com/,74,0,0
+1.67346E+12,74,homePage-0,308,Permanent Redirect,com.librarydreams 1-3,text,true,,489,119,10,10,https://librarydreams.com/,74,0,0
+1.67346E+12,79,homePage-1,200,OK,com.librarydreams 1-3,text,true,,1429,123,10,10,https://www.librarydreams.com/,79,0,0
+1.67346E+12,157,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,147,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,76,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,10,10,https://librarydreams.com/,76,0,0
+1.67346E+12,71,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,10,10,https://www.librarydreams.com/,71,0,0
+1.67346E+12,152,homePage,200,OK,com.librarydreams 1-1,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-1,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,75,homePage-1,200,OK,com.librarydreams 1-1,text,true,,1429,123,10,10,https://www.librarydreams.com/,75,0,0
+1.67346E+12,172,homePage,200,OK,com.librarydreams 1-8,text,true,,1918,242,10,10,https://www.librarydreams.com/,77,0,0
+1.67346E+12,77,homePage-0,308,Permanent Redirect,com.librarydreams 1-8,text,true,,489,119,10,10,https://librarydreams.com/,77,0,0
+1.67346E+12,95,homePage-1,200,OK,com.librarydreams 1-8,text,true,,1429,123,10,10,https://www.librarydreams.com/,95,0,0
+1.67346E+12,157,homePage,200,OK,com.librarydreams 1-6,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-6,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-6,text,true,,1429,123,10,10,https://www.librarydreams.com/,76,0,0
+1.67346E+12,163,homePage,200,OK,com.librarydreams 1-2,text,true,,1918,242,10,10,https://www.librarydreams.com/,81,0,0
+1.67346E+12,81,homePage-0,308,Permanent Redirect,com.librarydreams 1-2,text,true,,489,119,10,10,https://librarydreams.com/,81,0,0
+1.67346E+12,82,homePage-1,200,OK,com.librarydreams 1-2,text,true,,1429,123,10,10,https://www.librarydreams.com/,82,0,0
+1.67346E+12,171,homePage,200,OK,com.librarydreams 1-10,text,true,,1918,242,9,9,https://www.librarydreams.com/,79,0,0
+1.67346E+12,79,homePage-0,308,Permanent Redirect,com.librarydreams 1-10,text,true,,489,119,9,9,https://librarydreams.com/,79,0,0
+1.67346E+12,92,homePage-1,200,OK,com.librarydreams 1-10,text,true,,1429,123,9,9,https://www.librarydreams.com/,92,0,0
+1.67346E+12,171,homePage,200,OK,com.librarydreams 1-9,text,true,,1918,242,6,6,https://www.librarydreams.com/,95,0,0
+1.67346E+12,95,homePage-0,308,Permanent Redirect,com.librarydreams 1-9,text,true,,489,119,6,6,https://librarydreams.com/,95,0,0
+1.67346E+12,76,homePage-1,200,OK,com.librarydreams 1-9,text,true,,1429,123,6,6,https://www.librarydreams.com/,76,0,0
+1.67346E+12,180,homePage,200,OK,com.librarydreams 1-5,text,true,,1918,242,5,5,https://www.librarydreams.com/,106,0,0
+1.67346E+12,106,homePage-0,308,Permanent Redirect,com.librarydreams 1-5,text,true,,489,119,5,5,https://librarydreams.com/,106,0,0
+1.67346E+12,74,homePage-1,200,OK,com.librarydreams 1-5,text,true,,1429,123,5,5,https://www.librarydreams.com/,74,0,0

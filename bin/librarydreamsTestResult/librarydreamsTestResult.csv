@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.67346E+12,1053,libraryLogIn,200,,Thread Group 1-2,text,true,,731,562,2,2,https://library-app-backend-v2.herokuapp.com/login,1053,0,785
+1.67346E+12,1408,libraryLogIn,200,,Thread Group 1-1,text,true,,731,562,2,2,https://library-app-backend-v2.herokuapp.com/login,1408,0,1130
+1.67346E+12,189,libraryPublishers,200,,Thread Group 1-2,text,true,,1939,496,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=20&sort=id&direction=DESC&q=,189,0,0
+1.67346E+12,201,libraryPublishers,200,,Thread Group 1-1,text,true,,1939,496,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=20&sort=id&direction=DESC&q=,200,0,0
+1.67346E+12,168,libraryMainPage,403,,Thread Group 1-2,,false,,218,468,2,2,https://library-app-backend-v2.herokuapp.com/,168,0,0
+1.67346E+12,185,libraryMainPage,403,,Thread Group 1-1,,false,,218,468,2,2,https://library-app-backend-v2.herokuapp.com/,185,0,0
+1.67346E+12,170,libraryPublisherSearch,200,,Thread Group 1-2,text,true,,964,509,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=2&sort=name&direction=ASC&q=HarperCollins,170,0,0
+1.67346E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 46: https://library-app-backend-v2.herokuapp.com/${random},Thread Group 1-2,text,false,,1205,0,2,2,https://library-app-backend-v2.herokuapp.com/${random},0,0,0
+1.67346E+12,187,libraryPublisherSearch,200,,Thread Group 1-1,text,true,,964,509,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=2&sort=name&direction=ASC&q=HarperCollins,187,0,0
+1.67346E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 46: https://library-app-backend-v2.herokuapp.com/${random},Thread Group 1-1,text,false,,1205,0,2,2,https://library-app-backend-v2.herokuapp.com/${random},0,0,0
+1.67346E+12,264,libraryLogIn,200,,Thread Group 1-2,text,true,,731,562,2,2,https://library-app-backend-v2.herokuapp.com/login,264,0,0
+1.67346E+12,270,libraryLogIn,200,,Thread Group 1-1,text,true,,731,562,2,2,https://library-app-backend-v2.herokuapp.com/login,269,0,0
+1.67346E+12,177,libraryPublishers,200,,Thread Group 1-2,text,true,,1939,496,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=20&sort=id&direction=DESC&q=,177,0,0
+1.67346E+12,195,libraryPublishers,200,,Thread Group 1-1,text,true,,1939,496,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=20&sort=id&direction=DESC&q=,195,0,0
+1.67346E+12,164,libraryMainPage,403,,Thread Group 1-2,,false,,218,468,2,2,https://library-app-backend-v2.herokuapp.com/,164,0,0
+1.67346E+12,182,libraryMainPage,403,,Thread Group 1-1,,false,,218,468,2,2,https://library-app-backend-v2.herokuapp.com/,182,0,0
+1.67346E+12,168,libraryPublisherSearch,200,,Thread Group 1-2,text,true,,964,509,2,2,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=2&sort=name&direction=ASC&q=HarperCollins,168,0,0
+1.67346E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 46: https://library-app-backend-v2.herokuapp.com/${random},Thread Group 1-2,text,false,,1205,0,2,2,https://library-app-backend-v2.herokuapp.com/${random},0,0,0
+1.67346E+12,191,libraryPublisherSearch,200,,Thread Group 1-1,text,true,,964,509,1,1,https://library-app-backend-v2.herokuapp.com/publishers?page=0&size=2&sort=name&direction=ASC&q=HarperCollins,191,0,0
+1.67346E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 46: https://library-app-backend-v2.herokuapp.com/${random},Thread Group 1-1,text,false,,1205,0,1,1,https://library-app-backend-v2.herokuapp.com/${random},0,0,0
