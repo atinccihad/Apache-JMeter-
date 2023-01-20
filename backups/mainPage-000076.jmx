@@ -41,15 +41,6 @@
         </ConfigTestElement>
         <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="homePage" enabled="true">
-          <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
-            <collectionProp name="HTTPFileArgs.files">
-              <elementProp name="C:\Users\USER\Desktop\apache-jmeter-5.5\bin\libraryMainpage.csv" elementType="HTTPFileArg">
-                <stringProp name="File.mimetype">text/csv</stringProp>
-                <stringProp name="File.path">C:\Users\USER\Desktop\apache-jmeter-5.5\bin\libraryMainpage.csv</stringProp>
-                <stringProp name="File.paramname"></stringProp>
-              </elementProp>
-            </collectionProp>
-          </elementProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
@@ -102,7 +93,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename"></stringProp>
+            <stringProp name="filename">C:\Users\USER\Desktop\apache-jmeter-5.5\bin\libraryMainpage.csv</stringProp>
             <boolProp name="ResultCollector.success_only_logging">true</boolProp>
           </ResultCollector>
           <hashTree/>
